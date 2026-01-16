@@ -5,7 +5,7 @@
 :root {
   --background: var(--color-neutral-200);
   --foreground: var(--color-neutral-900);
-  --brand-primary: #2F66FA;
+  --brand-primary: #2F66FA; 
 }
 
 @theme inline {
